@@ -1,0 +1,2 @@
+In this project I'm going to be attempting on making a page that LOOKS like Google's homepage.  It doesn't have to function the same way and I need to remember that as I learn this.  LET'S GET IT!
+If you're having trouble getting something to take effect, check the order in your CSS.  Something may be canceling it out.
